@@ -1,0 +1,9 @@
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\bin\Debug\netstandard2.0\Kowanso.DataDTO.deps.json
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\bin\Debug\netstandard2.0\Kowanso.DataDTO.dll
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\bin\Debug\netstandard2.0\Kowanso.DataDTO.pdb
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.csprojAssemblyReference.cache
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.AssemblyInfoInputs.cache
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.AssemblyInfo.cs
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.csproj.CoreCompileInputs.cache
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.dll
+C:\Users\mumer\source\repos\Kawanso\Kowanso.DataDTO\obj\Debug\netstandard2.0\Kowanso.DataDTO.pdb

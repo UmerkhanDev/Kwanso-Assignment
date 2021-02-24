@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Kwanso.DataDTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Kwanso.DataDTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kwanso.DataDTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kwanso.DataDTO/1.0.0": {
+      "type": "project",
+      "path": "../Kowanso.DataDTO/Kwanso.DataDTO.csproj",
+      "msbuildProject": "../Kowanso.DataDTO/Kwanso.DataDTO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Kwanso.DataDTO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mumer\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mumer\\source\\repos\\Kawanso\\Kawanso.Dashboard\\Kwanso.Dashboard.csproj",
+      "projectName": "Kwanso.Dashboard",
+      "projectPath": "C:\\Users\\mumer\\source\\repos\\Kawanso\\Kawanso.Dashboard\\Kwanso.Dashboard.csproj",
+      "packagesPath": "C:\\Users\\mumer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mumer\\source\\repos\\Kawanso\\Kawanso.Dashboard\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mumer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.rdisoftware.com/nuget/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\mumer\\source\\repos\\Kawanso\\Kowanso.DataDTO\\Kwanso.DataDTO.csproj": {
+              "projectPath": "C:\\Users\\mumer\\source\\repos\\Kawanso\\Kowanso.DataDTO\\Kwanso.DataDTO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
